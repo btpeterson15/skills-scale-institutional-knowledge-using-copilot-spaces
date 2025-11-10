@@ -17,11 +17,15 @@ Guidance for managing day-to-day execution and tracking progress toward project 
   - Require at least one approval before merging (or team-defined policy)
 
 ## Quality & Testing
-- Unit tests for new logic
-- Integration tests where applicable
-- End-to-end smoke tests for critical flows before release
-- Security scanning in CI
-- Manual QA for feature acceptance when needed
+- **Quality Assurance Lead** owns test strategy and coordinates all testing activities
+- Unit tests for new logic (Developers responsible, QA Lead consulted)
+- Integration tests where applicable (Developers responsible, QA Lead validates coverage)
+- End-to-end smoke tests for critical flows before release (QA Lead accountable)
+- Security scanning in CI (automated, QA Lead monitors results)
+- Manual QA for feature acceptance when needed (QA Lead coordinates)
+- **QA Sign-off Required**: Quality Assurance Lead must approve before Release Coordinator proceeds with deployment
+
+For QA handoff points and collaboration patterns, see [Role Collaboration Checklist](./octoacme-role-collaboration-checklist.md).
 
 ## Reporting & Metrics
 - Track velocity and burndown
