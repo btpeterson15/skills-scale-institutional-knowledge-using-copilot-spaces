@@ -16,17 +16,19 @@ OctoAcme delivers projects using a clear, repeatable set of processes:
 ## Available Documentation
 
 - [Project Management Overview](./octoacme-project-management-overview.md)
+- [Roles and Personas](./octoacme-roles-and-personas.md)
+- [Role Collaboration Checklist](./octoacme-role-collaboration-checklist.md) — RACI matrices and handoff checklists
 - [Project Initiation Guide](./octoacme-project-initiation.md)
 - [Project Planning](./octoacme-project-planning.md)
 - [Execution & Tracking](./octoacme-execution-and-tracking.md)
 - [Risk Management & Communication](./octoacme-risks-and-communication.md)
 - [Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
-- [Roles and Personas](./octoacme-roles-and-personas.md)
 
 ## How to Use These Docs
 
 - Start with the [Project Management Overview](./octoacme-project-management-overview.md) to understand our principles, roles, and lifecycle.
+- Review [Roles and Personas](./octoacme-roles-and-personas.md) to understand individual role responsibilities.
+- Use [Role Collaboration Checklist](./octoacme-role-collaboration-checklist.md) for RACI clarity and handoff workflows.
 - Follow the process-specific guides as you move through each phase of your project.
-- Reference [Roles and Personas](./octoacme-roles-and-personas.md) to understand responsibilities and communication patterns.
 - Keep project-specific documentation in your project repository and link to these process docs as needed.

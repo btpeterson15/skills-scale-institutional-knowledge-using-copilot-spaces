@@ -13,6 +13,8 @@ Maintain a simple table with:
 - Mitigation plan
 - Status
 
+**Note**: For risks related to scope changes, coordinate with the **Change Manager** to assess impact and facilitate approval processes.
+
 ## Risk Lifecycle
 - Identify: during planning and ongoing execution
 - Assess: estimate impact and likelihood
@@ -20,9 +22,14 @@ Maintain a simple table with:
 - Monitor: review at weekly syncs and update status
 
 ## Stakeholder Communication
-- Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
-- Provide regular updates (weekly or milestone-based)
+- **Stakeholder Liaison** is accountable for managing stakeholder relationships and communication
+- Identify stakeholder groups and communication needs (e.g., engineering, sales, support, executives, customers)
+- Provide regular updates (weekly or milestone-based) coordinated by Stakeholder Liaison
 - Use a single source of truth (project README or release doc) for status
+- Stakeholder Liaison translates technical updates and manages expectations
+- Project Manager provides status information; Stakeholder Liaison delivers it to stakeholders
+
+For stakeholder liaison handoff points, see [Role Collaboration Checklist](./octoacme-role-collaboration-checklist.md).
 
 ## Communication Templates
 Weekly Status Template:
